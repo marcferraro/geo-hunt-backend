@@ -43,9 +43,5 @@ Leaderboard: A page that displays the leaderboard for all the users of the game.
 Profile: Here the user is able to see their personal stats and information. When logged in, it will be listed as the current users username. The user can reset their personal stats here.
 Puzzle: The puzzle page is where the game happens. When selecting a location, make sure to click when the five fingered hand appears. You will know you have selected a location when the popup appears.
 
-
-Resources
-https://maps.googleapis.com/maps/api/js?key=AIzaSyDH8K0f85l8Yn7MKODUpSiBIR1wl90x28E&callback=initMap&libraries=places&v=weekly
-
 Contributors
 Abbie Coghlan, Marc Ferraro, and Danielle Leppert-Simenauer
